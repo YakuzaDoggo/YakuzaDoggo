@@ -1,6 +1,5 @@
-- Hey, I'm @YakuzaDoggo
-- I’m interested in programming (surprise surprise), but also photography and music
-- I’m currently learning computer science at East Carolina University, where I use C/C++
+- I’m interested in programming (surprise surprise), but also photography and music.
+- I’m currently learning computer science at East Carolina University, where I use C/C++. Python is another language I'm familiar with, which I've used to make some basic Discord bots in the past.
 - You can find me on my Twitter, [@DoggoGotYeeted](https://twitter.com/DoggoGotYeeted)
 
 <!---
