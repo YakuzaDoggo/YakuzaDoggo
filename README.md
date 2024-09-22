@@ -1,5 +1,5 @@
 - I’m interested in programming (surprise surprise), but also photography and music.
-- Currently, I'm studying the German language and literature, minoring in Computer Science. I have formally learned C/C++ and am somewhat self-taught in Python. I plan on learning Java at some point...
+- Currently, I'm studying the German language and literature, minoring in Computer Science. I have formally learned C/C++ and am somewhat self-taught in Python. I'm currently learning about Java and OOP at the moment.
 - You can find me on my Twitter, [@DoggoGotYeeted](https://twitter.com/DoggoGotYeeted)
 - Oh yeah, I forgot to include my [Discord](https://discord.com/users/349655503623684097)
 
